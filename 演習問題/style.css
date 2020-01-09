@@ -1,0 +1,36 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+header h1 {
+	padding-top: 20px;
+	padding-left: 20px;
+	color: gray;
+}
+
+header {
+	background-image: url(img/mv.jpg);
+	background-position: bottom;
+	background-size: cover;
+	height: 400px;
+	width: 100%;
+}
+
+main {
+	margin: 0 auto;
+	width: 840px;
+	padding-bottom: 50px;
+}
+
+.blog-item {
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-bottom: 1px solid gray;
+    color: gray;
+}
+
+a {
+  color: gray;
+}
